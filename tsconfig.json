@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+      "allowSyntheticDefaultImports": true,
+      "sourceMap": true,
+      "noImplicitAny": true,
+      "module": "ESNext",
+      "moduleResolution": "node",
+      "target": "es2018",
+      "jsx": "react"
+  },
+  "exclude": [
+    "node_modules"
+  ],    
+  "include": [
+      "./src/**/*"
+  ]
+}
